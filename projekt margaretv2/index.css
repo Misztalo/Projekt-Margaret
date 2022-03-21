@@ -1,0 +1,98 @@
+
+body {
+    margin: 0 0;
+    padding: 0 0;
+    background-color: silver;
+}
+
+.logo > img {
+    width: 25vw;
+    height: 21vh;
+    height: 10vw;
+}
+.logo {
+    position: fixed;
+}
+.przyciski {
+    position: fixed;
+    margin-top: 21vh;
+    margin-top: 10vw;
+}
+
+.przyciski > a > button {
+    width: 25vw;
+    height: 4.3vw;
+    height: 7.7vh;
+    font-size: 1vh;
+    font-size: 1vw;
+    margin-top:0.17vw;
+    margin-top: 1.7vh;
+}
+ button:hover {
+     background-color: black;
+     color: yellow;
+ }
+.prawy {
+    position: absolute;
+    margin-left: 25.1vw;
+    width: 74vw;
+    height: 94.3vh;
+    overflow-y: scroll;
+    background-color: silver;
+}
+
+.prawy > .zdjecie {
+    float: left;
+    width: 18vh;
+    width: 18vw;
+    height: 15vh;
+    height: 15vw;
+    margin-top: 4vw;
+    margin-top: 4vh;
+    margin-left: 8vw;
+    margin-left: 9vh;
+}
+
+.prawy > .zdjecie > img {
+    width: 18vh;
+    width: 18vw;
+    height: 27.1vh;
+    height: 15vw;
+}
+
+
+ footer {
+     position: fixed;
+     margin-top: 94.4vh;
+     width: 100vw;
+     height: 5.6vh;
+     height: 12vw;
+     background-color: green;
+ }
+
+ footer > .nazwa {
+     position: fixed;
+     width: 33vw;
+     text-align: center;  
+     margin-top: 2vh;  
+     font-size: 2.6vh;
+     font-size: 1.8vw;
+ }
+ footer > .mail {
+    position: fixed;
+    width: 33vw;
+    text-align: center;  
+    margin-top: 2vh;  
+    font-size: 2.6vh;
+    font-size: 1.8vw;
+    margin-left: 33vw;
+}
+footer > .telefon {
+    position: fixed;
+    width: 33vw;
+    text-align: center;  
+    margin-top: 2vh; 
+    font-size: 2.6vh;
+    font-size: 1.8vw;
+    margin-left: 66vw;
+}
