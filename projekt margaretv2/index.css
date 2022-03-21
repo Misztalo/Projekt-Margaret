@@ -63,11 +63,11 @@ body {
 
  footer {
      position: fixed;
-     margin-top: 94.4vh;
+     margin-top: 94vh;
      width: 100vw;
      height: 5.6vh;
      height: 12vw;
-     background-color: green;
+     background-color: rgb(104, 175, 104);
  }
 
  footer > .nazwa {
@@ -75,16 +75,14 @@ body {
      width: 33vw;
      text-align: center;  
      margin-top: 2vh;  
-     font-size: 2.6vh;
-     font-size: 1.8vw;
+     font-size: 1.3vw;
  }
  footer > .mail {
     position: fixed;
     width: 33vw;
     text-align: center;  
     margin-top: 2vh;  
-    font-size: 2.6vh;
-    font-size: 1.8vw;
+    font-size: 1.3vw;
     margin-left: 33vw;
 }
 footer > .telefon {
@@ -92,7 +90,6 @@ footer > .telefon {
     width: 33vw;
     text-align: center;  
     margin-top: 2vh; 
-    font-size: 2.6vh;
-    font-size: 1.8vw;
+    font-size: 1.3vw;
     margin-left: 66vw;
 }
